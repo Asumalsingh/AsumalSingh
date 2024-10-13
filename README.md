@@ -1,38 +1,57 @@
-<h1 align="center">Hi 👋, I'm Asumal Kushwah</h1>
-<h3 align="center">A passionate full stack developer from India 🇮🇳</h3>
+### Hi there 👋
+Glad to see you here!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asumalsingh&label=Profile%20views&color=0e75b6&style=flat" alt="asumalsingh" /> </p>
+I am [Asumal Kushwah](https://asumal.vercel.app), a **Full Stack Developer** from India working at [TransFi](https://transfi.com). I have developed expertise in both frontend and backend technologies, including React, Next.js, and Node.js. My work involves building responsive, high-performance web applications that meet both user and business needs.
+Let's Connect
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asumalsingh" alt="asumalsingh" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asumal-kushwah/)
+[![Leetcode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=ffa115)](https://leetcode.com/u/AsumalSingh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asumal.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/asumal_singh)
+[![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@asumalkushwah)
 
+## Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/tailwind-0799ed?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase)
+![Firebase](https://img.shields.io/badge/-Firebase-edcb07?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Appwrite-181717?style=for-the-badge&logo=appwrite&logoColor=f00563)
+
+## Experience
+**[TransFi](https://transfi.com)** | Full Stack Developer | Jan 2024 - Present
+
+- Implemented refresh token-based secure authentication & multiple social auth methods.
+- Developed an automation tool to retrieve competitor pricing, saving 20 hours per week.
+- Integreted headless api which is used by 4 customers.
+- Optimized user flow, increasing conversion by 10%.
+- Project Link: https://buy.transfi.com
+
+<br/>
+
+## 
 - 🔭 I’m currently working on [Domico](https://domico.in/)
-
-- 🌱 I’m currently learning **System design and AWS**
-
+- 🌱 I’m currently learning System design and Cloud
 - 🤝 I’m looking for help with [Domico](https://domico.in/)
+- 📫 How to reach me codewithasu@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://asumalkushwah.vercel.app/](https://asumalkushwah.vercel.app/)
 
-- 💬 Ask me about **Typescript, React, React Native, Next, Node, MongoDB, Express, etc.**
+## Stats
 
-- 📫 How to reach me **codewithasu@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1--MLXV2SM-hIDzVziOMFevQAqdvRkwNg](https://drive.google.com/drive/u/0/folders/1--MLXV2SM-hIDzVziOMFevQAqdvRkwNg)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asumal-kushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asumal-kushwah" height="30" width="40" /></a>
-<a href="https://instagram.com/asumal_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asumal_singh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@asumalkushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@asumalkushwah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/codewithasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codewithasu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asumalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asumalsingh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asumalsingh&show_icons=true&locale=en&layout=compact" alt="asumalsingh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asumalsingh&show_icons=true&locale=en" alt="asumalsingh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asumalsingh&" alt="asumalsingh" /></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AsumalSingh&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
