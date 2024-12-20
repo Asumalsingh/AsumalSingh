@@ -36,10 +36,6 @@ Let's Connect
 ## Experience
 **[TransFi](https://transfi.com)** | Full Stack Developer | Jan 2024 - Present
 
-- Implemented refresh token-based secure authentication & multiple social auth methods.
-- Developed an automation tool to retrieve competitor pricing, saving 20 hours per week.
-- Integreted headless api which is used by 4 customers.
-- Optimized user flow, increasing conversion by 10%.
 - Project Link: https://buy.transfi.com
 
 <br/>
